@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Watching Queue","discord.gg/robloxbot"];
+const statusMessages = ["Shop nursi & bottlefed 🍥🎀","discord.gg/alohraugc"];
 
 
 let currentIndex = 0;

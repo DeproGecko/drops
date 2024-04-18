@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Shop nursi & bottlefed 🍥🎀","discord.gg/alohraugc"];
+const statusMessages = ["DK Dropshipping dk's bedste dropshipping og e commerce discord"];
 
 
 let currentIndex = 0;

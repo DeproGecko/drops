@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["DK Dropshipping dk's bedste dropshipping og e commerce discord"];
+const statusMessages = ["Make sure to vouch after buying!"];
 
 
 let currentIndex = 0;
